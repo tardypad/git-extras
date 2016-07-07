@@ -1,0 +1,17 @@
+Cleaning:
+
+Bugs:
+
+Testing:
+
+Improvements:
+
+New Features:
+
+Discarded:
+- reauthor: the filter run on every object can probably be optimised even more
+  to only include the minimal checks and assignments necessary given the
+  options. That could speed up the rewrite, and maybe prevent change mistakes.
+  => premature optimization
+
+Research:
