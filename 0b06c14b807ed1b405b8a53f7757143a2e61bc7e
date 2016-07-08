@@ -13,5 +13,9 @@ Discarded:
   to only include the minimal checks and assignments necessary given the
   options. That could speed up the rewrite, and maybe prevent change mistakes.
   => premature optimization
+- reauthor: use range of filter-branch to only rewrite a subset of the commits
+  and tags
+  => no real use case
+ (change of work that could be reflected in email change from a specific date?)
 
 Research:
