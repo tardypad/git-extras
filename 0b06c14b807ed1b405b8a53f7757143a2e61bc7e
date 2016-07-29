@@ -17,5 +17,10 @@ Discarded:
   and tags
   => no real use case
  (change of work that could be reflected in email change from a specific date?)
+- reauthor: allow for regex partial replace to change for example just a domain
+  's/(.*)@perso.me/\1@work.com/'
+  => probably overkill for now
+- reauthor: allow other filter-branch options -d. --original,...
+  => probably overkill as well for now
 
 Research:
